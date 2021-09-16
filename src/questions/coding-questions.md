@@ -1,3 +1,4 @@
+```diff
 ---
 title: Coding Questions
 layout: layouts/page.njk

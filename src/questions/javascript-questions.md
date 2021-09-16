@@ -1,3 +1,4 @@
+```diff
 ---
 title: JavaScript Questions
 layout: layouts/page.njk
@@ -21,13 +22,13 @@ permalink: /questions/javascript-questions/index.html
 * Explain `Function.prototype.bind`.
 * What's the difference between feature detection, feature inference, and using the UA string?
 * Explain "hoisting".
-* Describe event bubbling.
++ * Describe event bubbling.
 * Describe event capturing.
 * What's the difference between an "attribute" and a "property"?
 * What are the pros and cons of extending built-in JavaScript objects?
 * What is the difference between `==` and `===`?
 * Explain the same-origin policy with regards to JavaScript.
-* Why is it called a Ternary operator, what does the word "Ternary" indicate?
++ * Why is it called a Ternary operator, what does the word "Ternary" indicate?
 * What is strict mode? What are some of the advantages/disadvantages of using it?
 * What are some of the advantages/disadvantages of writing JavaScript code in a language that compiles to JavaScript?
 * What tools and techniques do you use debugging JavaScript code?
@@ -35,8 +36,8 @@ permalink: /questions/javascript-questions/index.html
   * What is an example of an immutable object in JavaScript?
   * What are the pros and cons of immutability?
   * How can you achieve immutability in your own code?
-* Explain the difference between synchronous and asynchronous functions.
-* What is event loop?
++ * Explain the difference between synchronous and asynchronous functions.
++ * What is event loop?
   * What is the difference between call stack and task queue?
 * What are the differences between variables created using `let`, `var` or `const`?
 * What are the differences between ES6 class and ES5 function constructors?
@@ -49,8 +50,8 @@ permalink: /questions/javascript-questions/index.html
 * What are the benefits of using `spread syntax` and how is it different from `rest syntax`?
 * How can you share code between files?
 * Why you might want to create static class members?
-* What is the difference between `while` and `do-while` loops in JavaScript?
-* What is a promise? Where and how would you use promise?
++ * What is the difference between `while` and `do-while` loops in JavaScript?
++ * What is a promise? Where and how would you use promise?
 
 ## Coding questions
 * Make this work:
